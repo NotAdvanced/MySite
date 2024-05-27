@@ -146,34 +146,6 @@ body {
   filter: blur(2px);
 }
 
-.spotifyplayer {
-  width: 320px;
-  height: 105px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 20px;
-  box-sizing: border-box;
-  background-color: #242424;
-  overflow: hidden;
-  position: relative;
-  border-radius: 20px;
-  z-index: 1;
-}
-
-.spotifynow {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  
-}
-
-.spotifynow img {
-  transform: scale(0.64);
-  border-radius: 30px;
-}
-
 .button {
     background-color: transparent;
     border: none;
