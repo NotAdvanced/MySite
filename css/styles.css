@@ -173,8 +173,8 @@ body {
 }
 
 .rectangle-right {
-    width: 400px;
-    height: 515px;
+    width: 320px;
+    height: 400px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -286,7 +286,7 @@ body {
     text-decoration: none;
 }
 
-.ayanami {
+.cat {
     width: 350px;
     height: auto;
     position: absolute;
